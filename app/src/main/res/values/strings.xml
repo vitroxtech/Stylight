@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stylight</string>
+    <string name="fashion_header">Check these out</string>
+    <string name="fashion_header_p2">New and trending products</string>
+    <string name="post_fashion_header">The lastest %1$s news</string>
+    <string name="post_fashion_header_p2">Get up to date</string>
+</resources>
